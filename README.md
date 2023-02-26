@@ -1,19 +1,19 @@
 # Global-Terrorism-Index-EDA2
-├── README.md
-├── Dataset 
-│   ├── NETFLIX MOVIES AND TV SHOWS CLUSTERING.csv
+├── README.md\
+├── Dataset \
+│   ├── NETFLIX MOVIES AND TV SHOWS CLUSTERING.csv\
 │
 │
-├── EDA
-│   ├── Numeric & Categoric features
-│   ├── Univariate Analysis
-│   ├── Bivariate Analysis
-│   ├── Multivariate Analysis
-│   ├── Data Cleaning
-│       ├── Duplicated values
-│       ├── NaN/Missing values
-│       ├── Treating Skewness
-│       ├── Treating Outlier 
+├── EDA\
+│   ├── Numeric & Categoric features\
+│   ├── Univariate Analysis\
+│   ├── Bivariate Analysis\
+│   ├── Multivariate Analysis\
+│   ├── Data Cleaning\
+│       ├── Duplicated values\
+│       ├── NaN/Missing values\
+│       ├── Treating Skewness\
+│       ├── Treating Outlier \
 │
 ├── Textual Data Preprocessing
 │   ├── Clustering Attributes
