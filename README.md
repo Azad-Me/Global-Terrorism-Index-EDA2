@@ -32,7 +32,5 @@
 |
 │   
 ├── Report
-├── Presentation
-├── Result
-└── Reference
+└──Presentation
 ```
